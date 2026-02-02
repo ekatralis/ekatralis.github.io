@@ -16,7 +16,7 @@ timezone:
 
 title: Evangelos (Vangelis) Katralis # the main title
 
-tagline: PhD Student, HPC Enthusiast, Software Engineer # it will display as the subtitle
+tagline: Software Engineer, HPC Enthusiast, PhD Student  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   This is the personal blog of Vangelis Katralis. The main aim of this website is to share my server building experience, 
